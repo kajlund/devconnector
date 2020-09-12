@@ -20,7 +20,7 @@ COOKIE_SECRET=someverylongrandomstring
   - [x] Add logging util, db connection and environment variables
   - [x] Setup basic routes
 - [] User routes and authentication
-  - [] Create user model
+  - [x] Create user model
   - [] Data validation
   - [] User Registration
   - [] JWT
