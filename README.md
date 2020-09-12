@@ -9,7 +9,7 @@ The project uses the below listed environment variables that are not in the repo
 NODE_ENV=development
 LOG_LEVEL=debug
 MONGO_URI=mongodb+srv://user:pwd@somecluster.mongodb.net/dbname?retryWrites=true&w=majority
-COOKIE_SECRET=someverylongrandomstring
+JWT_SECRET=someverylongrandomstring
 ```
 
 ## Tasks
@@ -23,7 +23,7 @@ COOKIE_SECRET=someverylongrandomstring
   - [x] Create user model
   - [x] Create User route data validation
   - [x] User Registration
-  - [] JWT
+  - [x] JWT
   - [] Auth Middleware
   - [] User auth and Login route
 - [] The Profile API
