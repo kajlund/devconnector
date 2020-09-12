@@ -21,7 +21,7 @@ COOKIE_SECRET=someverylongrandomstring
   - [x] Setup basic routes
 - [] User routes and authentication
   - [x] Create user model
-  - [] Data validation
+  - [x] Create User route data validation
   - [] User Registration
   - [] JWT
   - [] Auth Middleware
