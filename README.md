@@ -14,7 +14,16 @@ COOKIE_SECRET=someverylongrandomstring
 
 ## Tasks
 
-[x] Initial Server Setup
-[x] Add .vscode launch file
-[x] Add logging util, db connection and environment variables
-[] Setup basic routes
+- [x] Express and Mongoose setup
+  - [x] Initial Server Setup
+  - [x] Add .vscode launch file
+  - [x] Add logging util, db connection and environment variables
+  - [x] Setup basic routes
+- [] User routes and authentication
+  - [] Create user model
+  - [] Data validation
+  - [] User Registration
+  - [] JWT
+  - [] Auth Middleware
+  - [] User auth and Login route
+- [] The Profile API
