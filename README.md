@@ -25,5 +25,5 @@ JWT_SECRET=someverylongrandomstring
   - [x] User Registration
   - [x] JWT
   - [x] Auth Middleware
-  - [] User auth and Login route
+  - [x] User auth and Login route
 - [] The Profile API
